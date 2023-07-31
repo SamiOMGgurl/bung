@@ -1,0 +1,55 @@
+body
+{
+    background-color: rgb(188, 249, 106) ;
+}
+
+h1
+{
+font-size: 50px;
+width: 60%;
+border-radius: 10px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 900;
+background-color: rgb(154, 210, 82);
+}
+
+h2
+{
+font-size: 25px;
+width: 50%;
+border-radius: 10px;
+font-family: 'Courier New', Courier, monospace;
+background-color: rgb(154, 210, 82);
+}
+
+#tiger, #rabbit, #cat
+{
+    background-color: rgb(154, 210, 82);
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(154, 210, 82);
+    border-style: solid;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#Back
+{
+    float: right;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(154, 210, 82);
+    border-radius: 10px;
+    border-color: rgb(154, 210, 82);
+    border-style: solid;
+    font-size: 20px;
+
+}
+
+#Rabbits, #Cats
+{
+    width: 500px;
+}
+
